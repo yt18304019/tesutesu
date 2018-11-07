@@ -8,7 +8,8 @@ class Ex1107_2
 		{
 			switch (i)
 			{
-				case 2:
+				//iが2ならこの処理
+				case 2:		
 					System.out.println(i);
 						break;
 				case 3:
