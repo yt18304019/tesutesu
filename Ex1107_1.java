@@ -20,6 +20,7 @@ class Ex1107_2
 				case 5:
 					System.out.println(i);
 						break;
+				//iが７ならこの処理
 				case 7:
 					System.out.println(i);
 						break;
