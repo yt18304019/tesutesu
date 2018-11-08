@@ -16,6 +16,7 @@ class Ex1107_2
 				case 3:
 					System.out.println(i);
 						break;
+				//iが5ならこの処理
 				case 5:
 					System.out.println(i);
 						break;
